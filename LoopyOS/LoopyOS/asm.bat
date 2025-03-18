@@ -1,0 +1,1 @@
+..\z_tools\nask.exe nask_LoopyOS.nas nask_LoopyOS.img
