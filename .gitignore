@@ -3,5 +3,5 @@ tools/
 LoopyOS/z_new_o
 LoopyOS/z_new_w
 LoopyOS/z_osabin
-LoopyOS/z_tools
 *.txt
+z_tools/
